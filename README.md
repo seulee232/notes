@@ -1,0 +1,2 @@
+# notes
+React, Apollo, GraphQL
